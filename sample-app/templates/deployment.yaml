@@ -1,0 +1,3 @@
+{{- include "common.deployment" -}}
+{{- define "sample-app.deployment" -}}
+{{- end -}}
